@@ -1,0 +1,12 @@
+article p {
+  font-size: 1.6em;
+}
+
+#header h1 {
+  font-size: 2em;
+  font-weight: 700;
+}
+
+#footer p {
+  font-size: 3em;
+}

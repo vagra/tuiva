@@ -1,0 +1,9 @@
+main:
+
+  - name: 憨山大师开示录
+    url: /hanshan
+    weight: 10
+
+  - name: 虚云老和尚开示录
+    url: /xuyun
+    weight: 20
